@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project done with the Odin Project. I'd known HTML and CSS basics before becoming interested in TOP, and therefore I haven't learnt much with the Odin Project as yet, but I've never used Git until now, so at least I'll practice my recently acquired Git and GitHub knowledge doing this project.
